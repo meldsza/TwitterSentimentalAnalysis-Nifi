@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Build-Timestamp: 2020-03-18T12:33:41Z
+Archiver-Version: Plexus Archiver
+Nar-Dependency-Group: org.apache.nifi
+Built-By: jwitt
+Nar-Id: nifi-hadoop-libraries-nar
+Clone-During-Instance-Class-Loading: false
+Nar-Dependency-Version: 1.11.4
+Nar-Version: 1.11.4
+Build-Tag: nifi-1.11.4-RC1
+Nar-Group: org.apache.nifi
+Nar-Dependency-Id: nifi-standard-services-api-nar
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_232
+
